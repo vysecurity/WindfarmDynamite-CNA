@@ -2,7 +2,7 @@
 
 Script to utilise the Windows Notification Framework to spawn a new shell.
 
-Credits:
-	- @vysecurity for the script
+Credits:<br>
+	- @vysecurity for the script<br>
 	- @fuzzysecurity for the code: https://github.com/FuzzySecurity/Sharp-Suite
 

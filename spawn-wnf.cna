@@ -1,7 +1,7 @@
-# Host Payload (Stageless JavaScript / VBScript)
-#
+# WNF Spawn script that uses @fuzzysec's research
 # Author: Vincent Yiu (@vysecurity)
-# Credits to @armitagehacker for the original script
+# Credits to @fuzzysec for the research
+# https://github.com/FuzzySecurity/Sharp-Suite
 
 
 alias spawn-wnf{
